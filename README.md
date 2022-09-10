@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rdsrenans
+- 👋 Hi, I’m Renan de Souza
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning bachelor information systems
 - 💞️ I’m not looking to collaborate on moment
