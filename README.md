@@ -5,7 +5,6 @@
 - 📫 How to reach me? Send msg.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6495c1f7d99c9d6731906e7f?variant=dark)](https://roadmap.sh)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6495c1f7d99c9d6731906e7f?variant=dark)](https://roadmap.sh)
 
 
 <div>
