@@ -4,7 +4,8 @@
 - 💞️ I’m not looking to collaborate on moment
 - 📫 How to reach me? Send msg.
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6495c1f7d99c9d6731906e7f?variant=dark)](https://roadmap.sh)
+https://roadmap.sh/backend?s=6495c1f7d99c9d6731906e7f
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
